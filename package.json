@@ -1,0 +1,24 @@
+{
+  "name": "rock-paper-scissor-project",
+  "version": "1.0.0",
+  "description": "A simple application which alows an user to play rock paper scissors game with computer.  This application is made using only HTML, CSS, Javascript.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitbhati-rb/Rock-Paper-Scissor-Project.git"
+  },
+  "author": "Rohit-Bhati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohitbhati-rb/Rock-Paper-Scissor-Project/issues"
+  },
+  "homepage": "https://github.com/rohitbhati-rb/Rock-Paper-Scissor-Project#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
